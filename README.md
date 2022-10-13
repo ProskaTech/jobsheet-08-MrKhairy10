@@ -1,5 +1,11 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343083_Mubarakh Hayatna Khairy
+
+Pada pertemuan kali ini kita membahas mengenai array. Array adalah kemampuan untuk menggunakan satu variabel yang dapat menyimpan daftar data dan kemudian menggunakannya secara lebih efektif.
+Pada pengerjaan Latihan, terdapat 2 jenis dimensi Array yang kita gunakan yaitu ada array satu dimensi[] dan ada dimensi 2[][], dimana kita bisa mendefinisikan jumlah array sebagai panjangnya. kemudian untuk array 2 dimensi, menampilkannya dari baris dan kolom, maka urutan array dimulai dari angka .
+
+Dalam tugas yang diberikan, kita diminta mengerjakan :
+1. Isi array didefinisikan, kemudian ditampilkan dengan metode loop, untuk banyak dari mereka, hanya perlu menambahkan panjang 
+
+2. Array didefinisikan sebagai konten 11, kemudian ketika joptionpane mengakomodasi dengan string, ketika ingin mengurutkan, string harus diubah terlebih dahulu dengan ParseInt. kemudian untuk mencari nilai terbesar dengan seberapa besar isi array lebih besar dari nilai pertama isi array, maka nilai pertama array adalah isi array. 
+
+3. Array 2 dimensi [][]. untuk menampilkannya membutuhkan loop bersarang, dan untuk menampilkan baris dengan cara jika 0 akan menampilkan nama, jika 1 akan menampilkan tel, maka jika tidak di antara 2 ini, itu akan menampilkan alamat.
